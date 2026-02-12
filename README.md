@@ -13,7 +13,7 @@
 
 This project performs **customer segmentation** on mall customer data using unsupervised machine learning algorithms. The goal is to identify distinct customer groups based on their purchasing behavior, enabling targeted marketing strategies.
 
-## 📊 Dataset Description
+##  Dataset Description
 
 **Source:** [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)  
 **Records:** 200 customers  
@@ -27,7 +27,7 @@ This project performs **customer segmentation** on mall customer data using unsu
 | Annual Income (k$) | Annual income in thousands of dollars |
 | Spending Score (1-100) | Score assigned based on spending behavior |
 
-## 🔬 Algorithms Used
+##  Algorithms Used
 
 1. **K-Means Clustering**
    - Partitioning method to group customers into K clusters
@@ -42,7 +42,7 @@ This project performs **customer segmentation** on mall customer data using unsu
    - Dimensionality reduction for visualization
    - 2D projection of clustered data
 
-## 📈 Results
+##  Results
 
 | Algorithm | Silhouette Score |
 |-----------|------------------|
@@ -56,7 +56,7 @@ This project performs **customer segmentation** on mall customer data using unsu
 - **Low Income, Low Spending** - Budget-conscious customers
 - **Average Income, Average Spending** - Standard customers
 
-## 📉 Sample Visualizations
+##  Sample Visualizations
 
 ### Gender Distribution
 ![Gender Distribution](images/gender_distribution.png)
@@ -85,7 +85,7 @@ This project performs **customer segmentation** on mall customer data using unsu
 ### PCA Visualization
 ![PCA Visualization](images/pca_visualization.png)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Pandas
@@ -94,7 +94,7 @@ This project performs **customer segmentation** on mall customer data using unsu
 - Seaborn
 - Scikit-learn
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository**
    ```bash
@@ -112,7 +112,7 @@ This project performs **customer segmentation** on mall customer data using unsu
    jupyter notebook notebooks/analysis.ipynb
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer-Segmentation-Analytics/
@@ -135,14 +135,14 @@ Customer-Segmentation-Analytics/
 └── .gitignore
 ```
 
-## 📝 License
+##  License
 
 This project is for educational purposes.
 
-## 👤 Author
+## Author
 
 **Abijith Raja B**
 
----
+
 
 ⭐ If you found this project helpful, please give it a star!
